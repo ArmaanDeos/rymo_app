@@ -1,0 +1,85 @@
+[
+    {
+        "title":"Herman Coat",
+        "description":"Your new favorite jacket, featured in a so-soft shacket style with an ...",
+        "img":"https://i.ibb.co/qpqGx9p/hermancoat-removebg-preview.png",
+        "size":["M"],
+        "color":["gray"],
+        "categories":["women","coats"],
+        "price":999
+    
+    },
+    
+    {
+        "title":"Electron E Unisex Shoes",
+        "description":"There's more to the Electron E Trainers than meets the eye. Its visible technology highlights fantastic features like a breathable mesh upper, synthetic quarter panels for sup...",
+        "img":"https://i.ibb.co/NWf4Vxz/unisex-shoes-removebg-preview.png",
+        "size":["9","10"],
+        "color":["white","black"],
+        "categories":["shoes","men", "women"],
+        "price":4599
+    
+    },
+    {
+        "title":"GREEN PLEATED PLISSE JUMPSUIT",
+        "description":"Party wear, neon green, plisse jumpsuit with straight leg, singlet sleeve and overlap bodice. Style with a simple black cashmere cardigan and statement necklace for the ultimate evening look.",
+        "img":"https://i.ibb.co/3BNcHhb/jump3-removebg-preview.png",
+        "size":["L","M","S"],
+        "color":["blue"],
+        "categories":["women","jeans"],
+        "price":1500
+    
+    },
+    {
+        "title":"GREEN FAUX LEATHER BIKER JACKET",
+        "description":"Women's green faux leather biker jacket with metal zipper accents. Notched lapel collar. Sty",
+        "img":"https://i.ibb.co/NSC25mq/jacket-removebg-preview.png",
+        "size":["S","XL"],
+        "color":["black","gray","blue"],
+        "categories":["coats"],
+        "price":5000
+    
+    },
+    {
+        "title":"UNIQUE MID RISE STRIPED JOGGERS",
+        "description":"Get ready to experiment and incorporate standout denim styles in your wardrobe. Choose this pair of blue striped joggers from our Unique Denims collection that is a cool AF blend of classic jeans and athleisure. The side stripe detailing adds that extra edge to the look, giving it an all-over cool vibe. Sport it with a fitted white tee and sneakers for a look that is on point.",
+        "img":"https://i.ibb.co/LZpKjYY/joggers-removebg-preview.png",
+        "size":["M","XL","S"],
+        "color":["pink","yellow","blue","white","gray"],
+        "categories":["jeans"],
+        "price":700
+    
+    },
+    {
+        "title":"Adella Maxi Dress",
+        "description":"Finally—a white sneaker for the rest of your life. Whether you’re walking, working, or simply kicking it, the versatile and understated Royale Blanco is going to get you where you need to go. It might even help you feel better about where you are right now. Every great outfit is built from the ground up. Start here.",
+        "img":"https://i.ibb.co/MpjKnXg/mesi.jpg",
+        "size":["XL","L"],
+        "color":["red","pink"],
+        "categories":["women"],
+        "price":2000
+    
+    },
+    {
+        "title":" Cotton Leggings",
+        "description":"A pair of twill woven shorts featuring slanted front pockets, buttoned back pockets, a zip pocket, buttoned waist, and keychain loop.",
+        "img":"https://i.ibb.co/hmZprCh/leggings-removebg-preview.png",
+        "size":["M","S"],
+        "color":["red","blue","yellow"],
+        "categories":["jeans"],
+        "price":500
+    
+    },
+    {
+        "title":" Addidas Track Suit",
+        "description":"A pair of twill woven shorts featuring slanted front pockets, buttoned back pockets, a zip pocket, buttoned waist, and keychain loop.",
+        "img":"https://i.ibb.co/0rbDH1V/tarack-suit-removebg-preview.png",
+        "size":["L","S","M"],
+        "color":["pink","black","white"],
+        "categories":["jeans","women","coats"],
+        "price":999
+    
+    }
+]
+
+
